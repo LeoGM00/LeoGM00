@@ -1,9 +1,8 @@
-### Hey there 👋, I'm Leonardo Gutierrez! 💻
+# Hey there 👋, I'm Leonardo! 💻
 
-[![Linkedin Badge](https://img.shields.io/badge/-Leonardo%20Gutierrez-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![E-mail Badge](https://img.shields.io/badge/Contato-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:leeo12322@hotmail.com)
-[![Discord Badge](https://img.shields.io/badge/-L30Gt-7289da?style=flat-square&logo=Discord&logoColor=white)](https://discord.com)
-
+[![Linkedin Badge](https://img.shields.io/badge/Leonardo%20Gutierrez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![E-mail Badge](https://custom-icon-badges.demolab.com/badge/Contato-0078D4?style=for-the-badge&logo=mail&logoColor=white)](mailto:leeo12322@hotmail.com)
+[![Discord Badge](https://custom-icon-badges.demolab.com/badge/-L30Gt-7289da?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com)
 
 <!--
 - 🔭 I’m currently working on ...
@@ -12,21 +11,35 @@
 
 
 
---------
+---
 
 
-># 🧰 Toolbox
+### 🧰 Toolbox
+
 <div>
-<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C logo" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="45" height="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="45" height="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="45" height="45"/>
+<img align="left" alt="" width="40px" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="" width="40px" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="" width="40px" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="" width="40px" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="" width="40px" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+</div>
+<br />
+
+#
+
+### 🌱 Learning
+<div>
+<img align="left" alt="" width="40px" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img align="left" alt="" width="40px" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" />
+<img align="left" alt="" width="40px" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img align="left" alt="" width="40px" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+<img align="left" alt="" width="40px" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+<img align="left" alt="" width="40px" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 </div>
 
+<br />
+<!--
+#
 
-># 🌱 Learning
-<div>
-<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C-sharp" widht="45" height="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/lua-5.svg" alt="C-sharp" widht="45" height="45"/>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L30Gt)](https://github.com/anuraghazra/github-readme-stats)
+-->

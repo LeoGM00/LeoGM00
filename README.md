@@ -1,12 +1,11 @@
 # Hey there 👋, I'm Leonardo! 💻
 
-[![Linkedin Badge](https://img.shields.io/badge/Leonardo%20Gutierrez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![E-mail Badge](https://custom-icon-badges.demolab.com/badge/Contato-0078D4?style=for-the-badge&logo=mail&logoColor=white)](mailto:leeo12322@hotmail.com)
-[![Discord Badge](https://custom-icon-badges.demolab.com/badge/-L30Gt-7289da?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com)
+[![Linkedin Badge](https://img.shields.io/badge/Leonardo%20Gutierrez-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![E-mail Badge](https://custom-icon-badges.demolab.com/badge/Contato-0078D4?style=flat-square&logo=mail&logoColor=white)](mailto:leeo12322@hotmail.com)
+[![Discord Badge](https://custom-icon-badges.demolab.com/badge/-L30Gt-7289da?style=flat-square&logo=Discord&logoColor=white)](https://discord.com)
 
 <!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... 
+A 23 years old student 
 -->
 
 

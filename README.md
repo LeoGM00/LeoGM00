@@ -1,8 +1,9 @@
 # Hey there 👋, I'm Leonardo! 💻
 
 [![Linkedin Badge](https://img.shields.io/badge/Leonardo%20Gutierrez-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leogutierrez00)
-[![E-mail Badge](https://custom-icon-badges.demolab.com/badge/Contato-0078D4?style=flat-square&logo=mail&logoColor=white)](mailto:leogt.dev@gmail.com)
-[![Discord Badge](https://custom-icon-badges.demolab.com/badge/-L30Gt-7289da?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/468449698479341572)
+[![E-mail Badge](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leogt.dev@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/L30Gt-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/468449698479341572)
+
 
 <!--
 A 23 years old student 
@@ -15,10 +16,10 @@ A 23 years old student
 
 ### 🧰 Toolbox
 
-![C#](https://img.shields.io/badge/c%23-%234B275F.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%234B275F.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 <br />
 
 #### Tools ➜

@@ -33,7 +33,9 @@ A 23 years old student
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-<!--
+
+![View Counter](https://komarev.com/ghpvc/?username=L30Gt&style=flat-square)
+
 #
 <div>
 <img align="left" alt="" width="40px" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
@@ -43,7 +45,6 @@ A 23 years old student
 <img align="left" alt="" width="40px" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
 <img align="left" alt="" width="40px" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L30Gt)]
 
 <br />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L30Gt)](https://github.com/anuraghazra/github-readme-stats)
--->

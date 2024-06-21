@@ -46,6 +46,7 @@ I am always seeking to learn more and improve what I already know.
 
 ---
 
+### My Github Status
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=L30Gt&show_icons=true&theme=transparent&include_all_commits=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L30Gt&layout=compact&theme=transparent" />

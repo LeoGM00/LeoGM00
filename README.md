@@ -1,18 +1,15 @@
-# Hey there 👋, I'm Leonardo! 💻
+<h2 align="center">Hey there 👋, I'm Leonardo! 💻</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/Leonardo%20Gutierrez-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leogutierrez00)
 [![E-mail Badge](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leogt.dev@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/L30Gt-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/468449698479341572)
+![View Counter](https://komarev.com/ghpvc/?username=L30Gt&style=flat-square)
 
 
-<!--
-A 23 years old student 
--->
-
-
+I am a System Development student, focused on backend development. <br>
+I am always seeking to learn more and improve what I already know.
 
 ---
-
 
 ### 🧰 Toolbox
 
@@ -31,14 +28,14 @@ A 23 years old student
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%2300C4CC.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<br />
-
-#### Tools ➜
+>#### Utilities ➜
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
+---
 
 ### 🌱 Learning
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
@@ -47,17 +44,9 @@ A 23 years old student
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![View Counter](https://komarev.com/ghpvc/?username=L30Gt&style=flat-square)
+---
 
-#
-<div>
-<img align="left" alt="" width="40px" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-<img align="left" alt="" width="40px" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" />
-<img align="left" alt="" width="40px" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img align="left" alt="" width="40px" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-<img align="left" alt="" width="40px" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
-<img align="left" alt="" width="40px" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=L30Gt&show_icons=true&theme=transparent&include_all_commits=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L30Gt&layout=compact&theme=transparent" />
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L30Gt)]
-
-<br />

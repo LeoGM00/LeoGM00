@@ -1,4 +1,4 @@
-<h2 align="center">Hey there 👋, I'm Leonardo! 💻</h2>
+<h2>Hey there 👋, I'm Leonardo! 💻</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/Leonardo%20Gutierrez-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leogutierrez00)
 [![E-mail Badge](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leogt.dev@gmail.com)
@@ -46,7 +46,7 @@ I am always seeking to learn more and improve what I already know.
 
 ---
 
-### My Github Status
+### 📊 My Github Status
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=L30Gt&show_icons=true&theme=transparent&include_all_commits=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L30Gt&layout=compact&theme=transparent" />
